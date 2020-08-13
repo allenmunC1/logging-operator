@@ -39,11 +39,15 @@ github.com/banzaicloud/k8s-objectmatcher v1.1.0 h1:KHWn9Oxh21xsaGKBHWElkaRrr4ypC
 github.com/banzaicloud/k8s-objectmatcher v1.1.0/go.mod h1:gGaElvgkqa0Lk1khRr+jel/nsCLfzhLnD3CEWozpk9k=
 github.com/banzaicloud/k8s-objectmatcher v1.2.2 h1:WekhVqrRa/wUCPuESExwRjy5R+BDTf/s7DKP99y8MvY=
 github.com/banzaicloud/k8s-objectmatcher v1.2.2/go.mod h1:+kRcvF2kyA0u8k9AvTYgtt8zhv30Gi8ITKdMWqh7j+A=
+github.com/banzaicloud/k8s-objectmatcher v1.4.0 h1:HpdEc9gVbZyGzh/3spVLrc+ErhOUuh3gjKYCuR4jvbs=
+github.com/banzaicloud/k8s-objectmatcher v1.4.0/go.mod h1:j+N22VwgVfa0ajVtNxOz2G72aSOL21lpB7qV2GDrr/I=
 github.com/banzaicloud/logging-operator v0.0.0-20200719191036-ad05e64b4043 h1:MItNAUMULlCTVALvc0gMo7Y28PuCUfldoZa+SybyYNc=
 github.com/banzaicloud/operator-tools v0.8.0 h1:44mHThJ+8oMxpQSIFzhEdZ4tp+D9tqRlcyY3hf5N3y0=
 github.com/banzaicloud/operator-tools v0.8.0/go.mod h1:Cw9CxFuWK7Dim6yZGJ0h3nvb2x1NmkBvbRLyoJyj1oA=
 github.com/banzaicloud/operator-tools v0.10.1 h1:mko2X+TcLT3hDXJehO1JvUZp3lT8PN3JnINQ60TunZg=
 github.com/banzaicloud/operator-tools v0.10.1/go.mod h1:uZh9YGGfCvLqsTFLmKAw0KUYt9oCJkuOZ8SQIkMayXY=
+github.com/banzaicloud/operator-tools v0.10.5-0.20200812141632-f2d478750074 h1:Y065iqMsh56kWQiKNRya4mNEypY1rdKUyC5SP1NePY8=
+github.com/banzaicloud/operator-tools v0.10.5-0.20200812141632-f2d478750074/go.mod h1:96lzr2l60xe0yYFfrI5YlQLtsYoF88WIpfXBm3aYlTQ=
 github.com/banzaicloud/vfsgen v0.0.0-20200203103248-c48ce8603af1 h1:mU1NWbBhWFQmpc4Vop9XWWHQQ3wINvZT666c3OX52Cw=
 github.com/banzaicloud/vfsgen v0.0.0-20200203103248-c48ce8603af1/go.mod h1:kkOp3NatLFRDKepb9dRDhgu5JWLahgVGIHiCW7wufv0=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
@@ -182,6 +186,8 @@ github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5y
 github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
 github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/golang/protobuf v1.3.5 h1:F768QJ1E9tib+q5Sc8MkdJi1RxLTbRcTf8LJV56aRls=
+github.com/golang/protobuf v1.3.5/go.mod h1:6O5/vntMXwX2lRkT1hjjk0nAC1IDOTvTlVgjlRvqsdk=
 github.com/google/btree v0.0.0-20160524151835-7d79101e329e/go.mod h1:lNA+9X1NB3Zf8V7Ke586lFgjr2dZNuvo3lPJSGZ5JPQ=
 github.com/google/btree v0.0.0-20180813153112-4030bb1f1f0c/go.mod h1:lNA+9X1NB3Zf8V7Ke586lFgjr2dZNuvo3lPJSGZ5JPQ=
 github.com/google/btree v1.0.0/go.mod h1:lNA+9X1NB3Zf8V7Ke586lFgjr2dZNuvo3lPJSGZ5JPQ=
@@ -241,6 +247,8 @@ github.com/json-iterator/go v1.1.7 h1:KfgG9LzI+pYjr4xvmz/5H4FXjokeP+rlHLhv3iH62F
 github.com/json-iterator/go v1.1.7/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/json-iterator/go v1.1.8 h1:QiWkFLKq0T7mpzwOTu6BzNDbfTE8OLrYhVKYMLF46Ok=
 github.com/json-iterator/go v1.1.8/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
+github.com/json-iterator/go v1.1.9 h1:9yzud/Ht36ygwatGx56VwCZtlI/2AD15T1X2sjSuGns=
+github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=

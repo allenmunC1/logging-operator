@@ -6,9 +6,8 @@ require (
 	emperror.dev/errors v0.7.0
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883
-	github.com/banzaicloud/k8s-objectmatcher v1.4.0 // indirect
 	github.com/banzaicloud/logging-operator/pkg/sdk v0.0.0
-	github.com/banzaicloud/operator-tools v0.10.3
+	github.com/banzaicloud/operator-tools v0.10.5-0.20200812141632-f2d478750074
 	github.com/coreos/prometheus-operator v0.34.0
 	github.com/go-logr/logr v0.1.0
 	github.com/onsi/gomega v1.8.1
